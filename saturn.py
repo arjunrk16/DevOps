@@ -3,5 +3,3 @@ Keerthan
 Manjunath
 Rakesh
 Kiran
-Vikas
-Tejas
