@@ -1,5 +1,5 @@
-Arjun
-Keerthan
-Manjunath
-Rakesh
-Kiran
+echo Arjun
+echo Keerthan
+echo Manjunath
+echo Rakesh
+echo Kiran
